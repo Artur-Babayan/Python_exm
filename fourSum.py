@@ -34,13 +34,3 @@ class Solution:
                         right -= 1
 
         return result
-
-solution = Solution()
-
-nums1 = [1, 0, -1, 0, -2, 2]
-target1 = 0
-print(solution.fourSum(nums1, target1))
-
-nums2 = [2, 2, 2, 2, 2]
-target2 = 8
-print(solution.fourSum(nums2, target2))
