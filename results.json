@@ -1,0 +1,166 @@
+{
+    "student_name": "Arthur",
+    "student_surname": "Babayan",
+    "user_answers": {
+        "1": {
+            "question": "Which of the following statements is used to create an empty set in Python?",
+            "selected_option": "d"
+        },
+        "2": {
+            "question": "Is Python case sensitive when dealing with identifiers?",
+            "selected_option": "d"
+        },
+        "3": {
+            "question": "Which of the following cannot be a variable?",
+            "selected_option": "a,c"
+        },
+        "4": {
+            "question": "Which is the correct operator for power(xy)?",
+            "selected_option": "d"
+        },
+        "5": {
+            "question": "Which one of these is floor division?",
+            "selected_option": "b"
+        },
+        "6": {
+            "question": "What will be the output of the following Python code snippet?\ndef example(a):\na = a + '2'\na = a*2\nreturn a\n>>>example(\"hello\")",
+            "selected_option": "c"
+        },
+        "7": {
+            "question": "What is the average value of the following Python code snippet?\n>>>grade1 = 80\n>>>grade2 = 90\n>>>average = (grade1 + grade2) / 2",
+            "selected_option": "c"
+        },
+        "8": {
+            "question": "What is the result of round(0.5) – round(-0.5)?",
+            "selected_option": "a"
+        },
+        "9": {
+            "question": "Which of the following is incorrect?",
+            "selected_option": "a"
+        },
+        "10": {
+            "question": "What will be the value of the following Python expression?\n4 + 3 % 5",
+            "selected_option": "a"
+        },
+        "11": {
+            "question": "What will be the value of x in the following Python expression?\nx = int(43.55+2/2)",
+            "selected_option": "c"
+        },
+        "12": {
+            "question": "It is not possible for the two’s complement value to be equal to the original value in any case.",
+            "selected_option": "a"
+        },
+        "13": {
+            "question": "What will be the output of the following Python expression if x=15 and y=12?\nx & y",
+            "selected_option": "c"
+        },
+        "14": {
+            "question": "What will be the output of the following Python code snippet?\n['hello', 'morning'][bool('')]",
+            "selected_option": "a"
+        },
+        "15": {
+            "question": "What will be the output of the following Python code?\nclass Truth:\npass\nx=Truth()\nbool(x)",
+            "selected_option": "c"
+        },
+        "16": {
+            "question": "What will be the output of the following Python code?\n{0:.2f}'.format(1.234)",
+            "selected_option": "b"
+        },
+        "17": {
+            "question": "What will be the output of the following Python expression if X = -122?\nprint(\"-%06d\"%x)",
+            "selected_option": "a"
+        },
+        "18": {
+            "question": "What will be the output of the following Python code?\n{0:f}, {1:2f}, {2:05.2f}'.format(1.23456, 1.23456, 1.23456)",
+            "selected_option": "b"
+        },
+        "19": {
+            "question": "What will be the output of the following Python code?\nD=dict(p='san', q='foundry')\n{p}{q}'.format(**D)",
+            "selected_option": "b"
+        },
+        "20": {
+            "question": "What will be the output of the following Python code?\nD = {0, 1, 2}\nfor x in d:\nprint(x)",
+            "selected_option": "b"
+        },
+        "21": {
+            "question": "What will be the output of the following Python code?\nTrue = False\nwhile True:\nprint(True)\nBreak",
+            "selected_option": "d"
+        },
+        "22": {
+            "question": "What will be the output of the following Python code?\nprint('*', \"abcde\".center(6), '*', sep='')",
+            "selected_option": "c"
+        },
+        "23": {
+            "question": "To check whether string s1 contains another string s2, use ________",
+            "selected_option": "a"
+        },
+        "24": {
+            "question": "What will be the output of the following Python code? a=[13,56,17] a.append([87]) a.extend([45,67]) print(a)",
+            "selected_option": "c"
+        },
+        "25": {
+            "question": "To add a new element to a list we use which command?",
+            "selected_option": "c"
+        },
+        "26": {
+            "question": "What will be the output of the following Python code? r = [11, 12, 13, 14, 15, 16, 17, 18, 19] A = [[0, 10, 20], [30, 40, 50], [60, 70, 80]] for row in A: for col in row: r.append(col+10) r",
+            "selected_option": "c"
+        },
+        "27": {
+            "question": "What will be the output of the following Python code? l1=[10, 20, 30] l2=[-10, -20, -30] l3=[x+y for x, y in zip(l1, l2)] l3",
+            "selected_option": "d"
+        },
+        "28": {
+            "question": "What will be the output of the following Python code? >>> a=(2,3,4) >>> sum(a,3)",
+            "selected_option": "c"
+        },
+        "29": {
+            "question": "What is the data type of (1)?",
+            "selected_option": "b"
+        },
+        "30": {
+            "question": "What will be the output of the following Python code? >>> a={1,2,3} >>> b=a.copy() >>> b.add(4) >>> a",
+            "selected_option": "a"
+        },
+        "31": {
+            "question": "The ____________ function removes the first element of a set and the last element of a list.",
+            "selected_option": "b"
+        },
+        "32": {
+            "question": "What will be the output of the following Python code snippet? d = {\"john\":40, \"peter\":45} print(list(d.keys()))",
+            "selected_option": "b"
+        },
+        "33": {
+            "question": "What will be the output of the following Python code? >>> a={'B':5,'A':9,'C':7} >>> sorted(a)",
+            "selected_option": "c"
+        },
+        "34": {
+            "question": "What will be the output of the following Python function? list(enumerate([2, 3]))",
+            "selected_option": "c"
+        },
+        "35": {
+            "question": "What will be the output of the following Python functions? chr(‘97’) chr(97)",
+            "selected_option": "d"
+        },
+        "36": {
+            "question": "What will be the output of the following Python code? min = (lambda x, y: x if x < y else y) min(101*99, 102*98)",
+            "selected_option": "c"
+        },
+        "37": {
+            "question": "What will be the output of the following Python code? def say(message, times = 1): print(message * times) say('Hello') say('World', 5)",
+            "selected_option": "d"
+        },
+        "38": {
+            "question": "What will be the output of the following Python code? def foo(x): x = ['def', 'abc'] return id(x) q = ['abc', 'def'] print(id(q) == foo(q))",
+            "selected_option": "d"
+        },
+        "39": {
+            "question": "What will be the output of the following Python code? def foo(x): x[0] = ['def'] x[1] = ['abc'] return id(x) q = ['abc', 'def'] print(id(q) == foo(q))",
+            "selected_option": "a"
+        },
+        "40": {
+            "question": "What will be the output of the following Python code? def f(p, q, r): global s p = 10 q = 20 r = 30 s = 40 print(p,q,r,s) p,q,r,s = 1,2,3,4 f(5,10,15)",
+            "selected_option": "b"
+        }
+    }
+}
