@@ -22,7 +22,3 @@ class Solution:
                     result.append([i, word_index[left_part[::-1]]])
 
         return result
-
-solution = Solution()
-words = ["abcd","dcba","lls","s","sssll"]
-print(solution.palindromePairs(words))
